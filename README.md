@@ -56,7 +56,7 @@ The data is at the monthly frequency, and was built directly from the public acc
   </tr>
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_"survey"</code></td>
-    <td style="border: 2px solid #68b684; padding: 8px;">Expectations survey (Michigan - msc, Fed SEC - sec, ECB CES - ecb)</td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Expectations survey (Michigan - msc, Fed SCE - sce, ECB CES - ecb)</td>
   </tr>
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_ma</code></td>
