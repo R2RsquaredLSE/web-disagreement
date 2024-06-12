@@ -66,7 +66,7 @@ The data is at the monthly frequency, and was built directly from the public acc
 
 ---
 
-# Latest Figures (as of April 2024)
+# Latest Figures (as of June 2024)
 
 
 ## US disagreement from the Michigan survey of consumers
