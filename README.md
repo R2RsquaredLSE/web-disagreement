@@ -4,7 +4,7 @@
 Simple measures of disagreement in expected inflation from the Michigan survey of consumers, the FRB New York survey of consumer expectations, and the ECB consumer expectations survey. This dataset was collated from public sources, so it can be **freely used** by other researchers.
 
 The dataset will be updated regularly to reflect the latest data.
-- **Vintage 1:** The dataset was last updated in April of 2024 to cover data that ended in 2023:07 (MSC), 2023:04 (SCE), and 2023:12 (CES)
+- **Vintage 1:** The dataset was last updated in June of 2024 to cover data that ended in 2024:03 (MSC), 2023:08 (SCE), and 2024:03 (CES), ECB Euro area HICP by country (2024:05)
 
 
 ---
