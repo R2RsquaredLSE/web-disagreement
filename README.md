@@ -39,6 +39,14 @@ The data is at the monthly frequency, and was built directly from the public acc
     <td style="border: 2px solid #68b684; padding: 8px;">Month year</td>
   </tr>
   <tr style="background-color: #d4f4d3;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>mean_fcast</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Mean of answers</td>
+  </tr>
+  <tr style="background-color: #d4f4d3;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>med_fcast</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Median of answers</td>
+  </tr>
+  <tr style="background-color: #d4f4d3;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>st_dev</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">Standard deviation of answers</td>
   </tr>
@@ -71,6 +79,11 @@ The data is at the monthly frequency, and was built directly from the public acc
 
 ## US disagreement from the Michigan survey of consumers
 
+### First moment in US inflation expectations (mean and median, last ten years)
+![Description of the image](MSC_mean.png)
+
+Data for download: [Excel](MSC_mean.xls), [csv](MSC_mean.csv), [dta](MSC_mean.dta) 
+
 
 ### Second moment in US inflation expectations (standard deviation, raw and residualized, last ten years)
 ![Description of the image](MSC_stdev.png)
@@ -91,6 +104,11 @@ Data for download: [Excel](MSC_skewness.xls), [csv](MSC_skewness.csv), [dta](MSC
 
 ## US disagreement in the FRB New York survey of consumer expectations 
 
+### First moment in US inflation expectations (mean and median, last ten years)
+![Description of the image](SCE_mean.png)
+
+Data for download: [Excel](SCE_mean.xls), [csv](SCE_mean.csv), [dta](SCE_mean.dta) 
+
 
 ### Second moment in US inflation expectations (standard deviation, raw and residualized, last ten years)
 ![Description of the image](SCE_stdev.png)
@@ -110,6 +128,12 @@ Data for download: [Excel](SCE_skewness.xls), [csv](SCE_skewness.csv), [dta](SCE
 ---
 
 ## EA disagreement in the ECB consumer expectations survey
+
+
+### First moment in EA inflation expectations (mean and median)
+![Description of the image](ECB_mean.png)
+
+Data for download: [Excel](ECB_mean.xls), [csv](ECB_mean.csv), [dta](ECB_mean.dta) 
 
 
 ### Second moment in EA inflation expectations (standard deviation, raw and residualized)
