@@ -55,6 +55,14 @@ The data is at the monthly frequency, and was built directly from the public acc
     <td style="border: 2px solid #68b684; padding: 8px;">Skewness coefficient of answers</td>
   </tr>
   <tr style="background-color: #d4f4d3;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>mean_resid</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Mean of residualized answers</td>
+  </tr>
+  <tr style="background-color: #d4f4d3;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>med_resid</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Median of residualized answers</td>
+  </tr>
+  <tr style="background-color: #d4f4d3;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>st_dev_resid</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">Standard deviation of residualised answers</td>
   </tr>
@@ -104,19 +112,19 @@ Data for download: [Excel](MSC_skewness.xls), [csv](MSC_skewness.csv), [dta](MSC
 
 ## US disagreement in the FRB New York survey of consumer expectations 
 
-### First moment in US inflation expectations (mean and median, last ten years)
+### First moment in US inflation expectations (mean and median)
 ![Description of the image](SCE_mean.png)
 
 Data for download: [Excel](SCE_mean.xls), [csv](SCE_mean.csv), [dta](SCE_mean.dta) 
 
 
-### Second moment in US inflation expectations (standard deviation, raw and residualized, last ten years)
+### Second moment in US inflation expectations (standard deviation, raw and residualized)
 ![Description of the image](SCE_stdev.png)
 
 Data for download: [Excel](SCE_stdev.xls), [csv](SCE_stdev.csv), [dta](SCE_stdev.dta) 
 
 
-### Higher moment in US inflation expectations (skewness, raw and residualized, last ten years)
+### Higher moment in US inflation expectations (skewness, raw and residualized)
 ![Description of the image](SCE_skewness.png)
 
 Data for download: [Excel](SCE_skewness.xls), [csv](SCE_skewness.csv), [dta](SCE_skewness.dta) 
