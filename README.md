@@ -71,12 +71,12 @@ The data is at the monthly frequency, and was built directly from the public acc
     <td style="border: 2px solid #68b684; padding: 8px;">Skewness of residualised answers</td>
   </tr>
   <tr style="background-color: #f5f5f5;">
-    <td style="border: 2px solid #68b684; padding: 8px;"><code>*_"lt"</code></td>
-    <td style="border: 2px solid #68b684; padding: 8px;">Long-term expectations (Michigan - 5y, Fed SCE - 3y, ECB CES - 3y)</td>
-  </tr>
-  <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_"survey"</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">Expectations survey (Michigan - msc, Fed SCE - sce, ECB CES - ecb)</td>
+  </tr>
+  <tr style="background-color: #f5f5f5;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>*_lt</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Long-term expectations (Michigan - 5y, Fed SCE - 3y, ECB CES - 3y)</td>
   </tr>
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_ma</code></td>
@@ -86,7 +86,7 @@ The data is at the monthly frequency, and was built directly from the public acc
 
 ---
 
-# Latest Figures: 1-year expectations (as of June 2024)
+# 1-year expectations (as of June 2024)
 
 
 ## US disagreement from the Michigan survey of consumers
@@ -156,7 +156,7 @@ Data for download: [Excel](ECB_mean.xls), [csv](ECB_mean.csv), [dta](ECB_mean.dt
 
 ---
 
-# Latest figures: long-term expectations (as of June 2024)
+# Long-term expectations (as of June 2024)
 
 
 ## US disagreement from the Michigan survey of consumers
