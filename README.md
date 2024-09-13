@@ -71,6 +71,10 @@ The data is at the monthly frequency, and was built directly from the public acc
     <td style="border: 2px solid #68b684; padding: 8px;">Skewness of residualised answers</td>
   </tr>
   <tr style="background-color: #f5f5f5;">
+    <td style="border: 2px solid #68b684; padding: 8px;"><code>*_"lt"</code></td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Long-term expectations (Michigan - 5y, Fed SCE - 3y, ECB CES - 3y)</td>
+  </tr>
+  <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_"survey"</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">Expectations survey (Michigan - msc, Fed SCE - sce, ECB CES - ecb)</td>
   </tr>
@@ -82,7 +86,7 @@ The data is at the monthly frequency, and was built directly from the public acc
 
 ---
 
-# Latest Figures (as of June 2024)
+# Latest Figures: 1-year expectations (as of June 2024)
 
 
 ## US disagreement from the Michigan survey of consumers
@@ -149,6 +153,66 @@ Data for download: [Excel](ECB_mean.xls), [csv](ECB_mean.csv), [dta](ECB_mean.dt
 ###  Socio-demographic-economic determinants of EA inflation expectations (by subsample)
 ![Description of the image](ECB_characteristics_periods_c.png)
 ![Description of the image](ECB_inf_coef_vsDE.png)
+
+---
+
+# Latest figures: long-term expectations (as of June 2024)
+
+
+## US disagreement from the Michigan survey of consumers
+
+### Second moment in US inflation expectations (standard deviation, raw and residualized, last twelve years)
+![Description of the image](MSC_stdev_lt.png)
+
+Data for download: [Excel](MSC_stdev_lt.xls), [csv](MSC_stdev_lt.csv), [dta](MSC_stdev_lt.dta) 
+
+### Higher moment in US inflation expectations (skewness, raw and residualized, last twelve years)
+![Description of the image](MSC_skewness_lt.png)
+
+Data for download: [Excel](MSC_skewness_lt.xls), [csv](MSC_skewness_lt.csv), [dta](MSC_skewness_lt.dta) 
+
+### First moment in US inflation expectations (mean and median, last ten years)
+![Description of the image](MSC_mean_lt.png)
+
+Data for download: [Excel](MSC_mean_lt.xls), [csv](MSC_mean_lt.csv), [dta](MSC_mean_lt.dta) 
+
+---
+
+## US disagreement in the FRB New York survey of consumer expectations 
+
+### Second moment in US inflation expectations (standard deviation, raw and residualized)
+![Description of the image](SCE_stdev_lt.png)
+
+Data for download: [Excel](SCE_stdev_lt.xls), [csv](SCE_stdev_lt.csv), [dta](SCE_stdev_lt.dta) 
+
+### Higher moment in US inflation expectations (skewness, raw and residualized)
+![Description of the image](SCE_skewness_lt.png)
+
+Data for download: [Excel](SCE_skewness_lt.xls), [csv](SCE_skewness_lt.csv), [dta](SCE_skewness_lt.dta) 
+
+### First moment in US inflation expectations (mean and median)
+![Description of the image](SCE_mean_lt.png)
+
+Data for download: [Excel](SCE_mean_lt.xls), [csv](SCE_mean_lt.csv), [dta](SCE_mean_lt.dta) 
+
+---
+
+## EA disagreement in the ECB consumer expectations survey
+
+### Second moment in EA inflation expectations (standard deviation, raw and residualized)
+![Description of the image](ECB_stdev_lt.png)
+
+Data for download: [Excel](ECB_stdev_lt.xls), [csv](ECB_stdev_lt.csv), [dta](ECB_stdev_lt.dta) 
+
+### Higher moment in EA inflation expectations (skewness, raw and residualized)
+![Description of the image](ECB_skewness_lt.png)
+
+Data for download: [Excel](ECB_skewness_lt.xls), [csv](ECB_skewness_lt.csv), [dta](ECB_skewness_lt.dta) 
+
+### First moment in EA inflation expectations (mean and median)
+![Description of the image](ECB_mean_lt.png)
+
+Data for download: [Excel](ECB_mean_lt.xls), [csv](ECB_mean_lt.csv), [dta](ECB_mean_lt.dta) 
 
 ---
 
