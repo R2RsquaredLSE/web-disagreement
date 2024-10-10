@@ -94,17 +94,17 @@ The data is at the monthly frequency, and was built directly from the public acc
 ### Second moment in US inflation expectations (standard deviation, raw and residualized, last twelve years)
 ![Description of the image](MSC_stdev.png)
 
-Data for download: [Excel](MSC_stdev.xls), [csv](MSC_stdev.csv), [dta](MSC_stdev.dta) 
+Data for download: [Excel](MSC_stdev.xlsx), [csv](MSC_stdev.csv), [dta](MSC_stdev.dta) 
 
 ### Higher moment in US inflation expectations (skewness, raw and residualized, last twelve years)
 ![Description of the image](MSC_skewness.png)
 
-Data for download: [Excel](MSC_skewness.xls), [csv](MSC_skewness.csv), [dta](MSC_skewness.dta) 
+Data for download: [Excel](MSC_skewness.xlsx), [csv](MSC_skewness.csv), [dta](MSC_skewness.dta) 
 
 ### First moment in US inflation expectations (mean and median, last ten years)
 ![Description of the image](MSC_mean.png)
 
-Data for download: [Excel](MSC_mean.xls), [csv](MSC_mean.csv), [dta](MSC_mean.dta) 
+Data for download: [Excel](MSC_mean.xlsx), [csv](MSC_mean.csv), [dta](MSC_mean.dta) 
 
 ### Socio-demographic-economic determinants of US inflation expectations (by subsample)
 ![Description of the image](Michigan_characteristics_periods.png)
@@ -116,17 +116,17 @@ Data for download: [Excel](MSC_mean.xls), [csv](MSC_mean.csv), [dta](MSC_mean.dt
 ### Second moment in US inflation expectations (standard deviation, raw and residualized)
 ![Description of the image](SCE_stdev.png)
 
-Data for download: [Excel](SCE_stdev.xls), [csv](SCE_stdev.csv), [dta](SCE_stdev.dta) 
+Data for download: [Excel](SCE_stdev.xlsx), [csv](SCE_stdev.csv), [dta](SCE_stdev.dta) 
 
 ### Higher moment in US inflation expectations (skewness, raw and residualized)
 ![Description of the image](SCE_skewness.png)
 
-Data for download: [Excel](SCE_skewness.xls), [csv](SCE_skewness.csv), [dta](SCE_skewness.dta) 
+Data for download: [Excel](SCE_skewness.xlsx), [csv](SCE_skewness.csv), [dta](SCE_skewness.dta) 
 
 ### First moment in US inflation expectations (mean and median)
 ![Description of the image](SCE_mean.png)
 
-Data for download: [Excel](SCE_mean.xls), [csv](SCE_mean.csv), [dta](SCE_mean.dta) 
+Data for download: [Excel](SCE_mean.xlsx), [csv](SCE_mean.csv), [dta](SCE_mean.dta) 
 
 ### Socio-demographic-economic determinants of US inflation expectations (by subsample)
 ![Description of the image](SCE_characteristics_periods.png)
@@ -138,17 +138,17 @@ Data for download: [Excel](SCE_mean.xls), [csv](SCE_mean.csv), [dta](SCE_mean.dt
 ### Second moment in EA inflation expectations (standard deviation, raw and residualized)
 ![Description of the image](ECB_stdev.png)
 
-Data for download: [Excel](ECB_stdev.xls), [csv](ECB_stdev.csv), [dta](ECB_stdev.dta) 
+Data for download: [Excel](ECB_stdev.xlsx), [csv](ECB_stdev.csv), [dta](ECB_stdev.dta) 
 
 ### Higher moment in EA inflation expectations (skewness, raw and residualized)
 ![Description of the image](ECB_skewness.png)
 
-Data for download: [Excel](ECB_skewness.xls), [csv](ECB_skewness.csv), [dta](ECB_skewness.dta) 
+Data for download: [Excel](ECB_skewness.xlsx), [csv](ECB_skewness.csv), [dta](ECB_skewness.dta) 
 
 ### First moment in EA inflation expectations (mean and median)
 ![Description of the image](ECB_mean.png)
 
-Data for download: [Excel](ECB_mean.xls), [csv](ECB_mean.csv), [dta](ECB_mean.dta) 
+Data for download: [Excel](ECB_mean.xlsx), [csv](ECB_mean.csv), [dta](ECB_mean.dta) 
 
 ###  Socio-demographic-economic determinants of EA inflation expectations (by subsample)
 ![Description of the image](ECB_characteristics_periods_c.png)
@@ -164,17 +164,17 @@ Data for download: [Excel](ECB_mean.xls), [csv](ECB_mean.csv), [dta](ECB_mean.dt
 ### Second moment in US inflation expectations (standard deviation, raw and residualized, last twelve years)
 ![Description of the image](MSC_stdev_lt.png)
 
-Data for download: [Excel](MSC_stdev_lt.xls), [csv](MSC_stdev_lt.csv), [dta](MSC_stdev_lt.dta) 
+Data for download: [Excel](MSC_stdev_lt.xlsx), [csv](MSC_stdev_lt.csv), [dta](MSC_stdev_lt.dta) 
 
 ### Higher moment in US inflation expectations (skewness, raw and residualized, last twelve years)
 ![Description of the image](MSC_skewness_lt.png)
 
-Data for download: [Excel](MSC_skewness_lt.xls), [csv](MSC_skewness_lt.csv), [dta](MSC_skewness_lt.dta) 
+Data for download: [Excel](MSC_skewness_lt.xlsx), [csv](MSC_skewness_lt.csv), [dta](MSC_skewness_lt.dta) 
 
 ### First moment in US inflation expectations (mean and median, last ten years)
 ![Description of the image](MSC_mean_lt.png)
 
-Data for download: [Excel](MSC_mean_lt.xls), [csv](MSC_mean_lt.csv), [dta](MSC_mean_lt.dta) 
+Data for download: [Excel](MSC_mean_lt.xlsx), [csv](MSC_mean_lt.csv), [dta](MSC_mean_lt.dta) 
 
 ---
 
@@ -183,17 +183,17 @@ Data for download: [Excel](MSC_mean_lt.xls), [csv](MSC_mean_lt.csv), [dta](MSC_m
 ### Second moment in US inflation expectations (standard deviation, raw and residualized)
 ![Description of the image](SCE_stdev_lt.png)
 
-Data for download: [Excel](SCE_stdev_lt.xls), [csv](SCE_stdev_lt.csv), [dta](SCE_stdev_lt.dta) 
+Data for download: [Excel](SCE_stdev_lt.xlsx), [csv](SCE_stdev_lt.csv), [dta](SCE_stdev_lt.dta) 
 
 ### Higher moment in US inflation expectations (skewness, raw and residualized)
 ![Description of the image](SCE_skewness_lt.png)
 
-Data for download: [Excel](SCE_skewness_lt.xls), [csv](SCE_skewness_lt.csv), [dta](SCE_skewness_lt.dta) 
+Data for download: [Excel](SCE_skewness_lt.xlsx), [csv](SCE_skewness_lt.csv), [dta](SCE_skewness_lt.dta) 
 
 ### First moment in US inflation expectations (mean and median)
 ![Description of the image](SCE_mean_lt.png)
 
-Data for download: [Excel](SCE_mean_lt.xls), [csv](SCE_mean_lt.csv), [dta](SCE_mean_lt.dta) 
+Data for download: [Excel](SCE_mean_lt.xlsx), [csv](SCE_mean_lt.csv), [dta](SCE_mean_lt.dta) 
 
 ---
 
@@ -202,17 +202,17 @@ Data for download: [Excel](SCE_mean_lt.xls), [csv](SCE_mean_lt.csv), [dta](SCE_m
 ### Second moment in EA inflation expectations (standard deviation, raw and residualized)
 ![Description of the image](ECB_stdev_lt.png)
 
-Data for download: [Excel](ECB_stdev_lt.xls), [csv](ECB_stdev_lt.csv), [dta](ECB_stdev_lt.dta) 
+Data for download: [Excel](ECB_stdev_lt.xlsx), [csv](ECB_stdev_lt.csv), [dta](ECB_stdev_lt.dta) 
 
 ### Higher moment in EA inflation expectations (skewness, raw and residualized)
 ![Description of the image](ECB_skewness_lt.png)
 
-Data for download: [Excel](ECB_skewness_lt.xls), [csv](ECB_skewness_lt.csv), [dta](ECB_skewness_lt.dta) 
+Data for download: [Excel](ECB_skewness_lt.xlsx), [csv](ECB_skewness_lt.csv), [dta](ECB_skewness_lt.dta) 
 
 ### First moment in EA inflation expectations (mean and median)
 ![Description of the image](ECB_mean_lt.png)
 
-Data for download: [Excel](ECB_mean_lt.xls), [csv](ECB_mean_lt.csv), [dta](ECB_mean_lt.dta) 
+Data for download: [Excel](ECB_mean_lt.xlsx), [csv](ECB_mean_lt.csv), [dta](ECB_mean_lt.dta) 
 
 ---
 
