@@ -6,6 +6,7 @@ Simple measures of disagreement in expected inflation from the Michigan survey o
 The dataset will be updated regularly to reflect the latest data.
 - **Vintage 1:** The dataset was last updated in April 2025 of 2024 to cover data that ended in 2025:03 (MSC), 2024:05 (SCE), and 2025:03 (CES), ECB Euro area HICP by country (2025:03)
 - **Vintage 2:** The dataset was last updated in May 2025 of 2024 to cover data that ended in 2025:04 (MSC), 2024:05 (SCE), and 2025:04 (CES), ECB Euro area HICP by country (2025:03)
+- **Vintage 3:** The dataset was last updated in March 2026 of 2025 to cover data that ended in 2025:11 (MSC), 2025:11 (SCE), and 2025:11 (CES), ECB Euro area HICP by country (2025:12)
 
 
 ---
@@ -21,9 +22,9 @@ The dataset will be updated regularly to reflect the latest data.
 
 # Full Dataset
 Download in three formats:
-- [Excel](fpr_disagree_0525.xlsx) (with meta data)
-- [csv](fpr_disagree_0525.csv)
-- [dta](fpr_disagree_0525.dta)
+- [Excel](fpr_disagree_0326.xlsx) (with meta data)
+- [csv](fpr_disagree_0326.csv)
+- [dta](fpr_disagree_0326.dta)
 
 ---
 
@@ -87,7 +88,7 @@ The data is at the monthly frequency, and was built directly from the public acc
 
 ---
 
-# 1-year expectations (as of May 2025)
+# 1-year expectations (as of March 2026)
 
 
 ## US disagreement from the Michigan survey of consumers
@@ -108,7 +109,7 @@ Data for download: [Excel](MSC_skewness.xlsx), [csv](MSC_skewness.csv), [dta](MS
 Data for download: [Excel](MSC_mean.xlsx), [csv](MSC_mean.csv), [dta](MSC_mean.dta) 
 
 ### Socio-demographic-economic determinants of US inflation expectations (by subsample)
-![Description of the image](Michigan_characteristics_periods.png)
+![Description of the image](Michigan_characteristics_periods_power.png)
 
 ---
 
@@ -157,7 +158,7 @@ Data for download: [Excel](ECB_mean.xlsx), [csv](ECB_mean.csv), [dta](ECB_mean.d
 
 ---
 
-# Long-term expectations (as of May 2025)
+# Long-term expectations (as of March 2026)
 
 
 ## US disagreement from the Michigan survey of consumers
